@@ -1,0 +1,2 @@
+className=反射.通过配置文件运行类方法.Student
+methodName=study
